@@ -2,8 +2,6 @@
 
 ## Features
 - Auth (Sign up/Login/Logout)
-- Role-based User Management
-- Document Upload & Ingestion Trigger
 - Q&A Interface with mock responses
 - Tailwind CSS + Dark Mode
 - Context API for Global State
